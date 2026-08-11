@@ -1,0 +1,1 @@
+- L'Organisateur de Captures d'Écran : Si tu prends beaucoup de screenshots sur Windows/Mac, ce script les renomme automatiquement en fonction de la fenêtre active (ex: Steam_EldenRing_2024.jpg) au lieu du classique ScreenShot_123.jpg.

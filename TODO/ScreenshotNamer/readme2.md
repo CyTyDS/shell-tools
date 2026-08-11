@@ -1,0 +1,1 @@
+- L'Auto-Organisateur de Screenshots : (Amélioré) Utilise l'OCR (reconnaissance de texte) pour lire ce qu'il y a dans tes captures d'écran et les renommer intelligemment. Exemple : un screen d'une facture Amazon devient Facture_Amazon_12-05-24.png

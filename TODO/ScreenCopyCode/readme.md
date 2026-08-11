@@ -1,0 +1,1 @@
+- L'Auto-Copieur de Code : Pour les développeurs. Un outil qui surveille tes captures d'écran : si tu prends un screenshot d'un bout de code, il utilise l'OCR (reconnaissance de texte) pour le copier automatiquement dans ton presse-papier.

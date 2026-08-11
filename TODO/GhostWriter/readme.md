@@ -1,0 +1,1 @@
+- Le "Ghost Writer" : Un outil de Text Expansion. Tu tapes ;gwmail et il le remplace instantanément par ton adresse email complète. C'est un gain de temps énorme au quotidien.
